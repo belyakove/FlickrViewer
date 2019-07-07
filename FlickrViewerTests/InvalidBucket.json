@@ -1,0 +1,31 @@
+{  
+    "page":1,
+    "pages":"pages",
+    "perpage":100,
+    "total":"total",
+    "photo":[  
+        {  
+            "id":"48189399141",
+            "owner":"138631114@N02",
+            "secret":"b64380eb37",
+            "server":"65535",
+            "farm":66,
+            "title":"P1012803",
+            "ispublic":1,
+            "isfriend":0,
+            "isfamily":0
+        },
+        {  
+            "id":"48189455602",
+            "owner":"138631114@N02",
+            "secret":"4ffb6fa2b4",
+            "server":"65535",
+            "farm":66,
+            "title":"P1012848",
+            "ispublic":1,
+            "isfriend":0,
+            "isfamily":0
+        }
+    ]
+    
+}
